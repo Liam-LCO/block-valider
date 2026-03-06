@@ -1,0 +1,8 @@
+{
+    "id": "cb-20260306-uuu-dc22e3",
+    "category": "communaute",
+    "label": "uuu",
+    "html": "<section data-custom-block=\"1\" style=\"padding:48px 40px;background:var(--bg);min-height:120px;border:2px dashed rgba(249,115,22,.25);border-radius:12px;display:flex;align-items:center;justify-content:center\" data-ge-section-key=\"sec-9\" draggable=\"true\"><p style=\"color:rgba(255,255,255,.3);font-size:13px;font-style:italic\" data-ge-id=\"ge-125\">uuu — cliquez pour éditer</p><div class=\"ge-sec-handle ge-ui-control\"><button type=\"button\" class=\"ge-sec-btn\" title=\"Drag &amp; drop\">↕</button><button type=\"button\" class=\"ge-sec-btn\" title=\"Monter le bloc\">↑</button><button type=\"button\" class=\"ge-sec-btn\" title=\"Descendre le bloc\">↓</button><button type=\"button\" class=\"ge-sec-btn del\" title=\"Supprimer le bloc\">🗑</button></div></section>",
+    "icon": "",
+    "updated_at": "2026-03-06T16:13:09+00:00"
+}
