@@ -1,7 +1,7 @@
 {
     "schema_version": 1,
     "repository": "block-valider",
-    "generated_at": "2026-03-05T08:37:36+00:00",
+    "generated_at": "2026-03-06T16:13:10+00:00",
     "blocks": [
         {
             "category": "pageheader",
@@ -988,6 +988,14 @@
             "label": "Badge",
             "file": "blocks/[classique]-classic--badge.json",
             "updated_at": "2026-03-05T08:37:36+00:00"
+        },
+        {
+            "file": "blocks/cb-20260306-uuu-dc22e3.json",
+            "category": "communaute",
+            "id": "cb-20260306-uuu-dc22e3",
+            "label": "uuu",
+            "icon": "",
+            "updated_at": "2026-03-06T16:13:10+00:00"
         }
     ]
 }
