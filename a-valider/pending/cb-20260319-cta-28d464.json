@@ -1,0 +1,7 @@
+{
+    "id": "cb-20260319-cta-28d464",
+    "name": "CTA",
+    "html": "<section class=\"bg-[var(--bg)] py-20 px-6\"> <div class=\"max-w-5xl mx-auto\"> <p class=\"text-[var(--brand)] text-xs tracking-widest uppercase font-bold mb-3\">TÉMOIGNAGES</p> <h2 class=\"text-3xl font-bold text-[var(--text)] mb-2\">Ce que disent nos clients</h2> <p class=\"text-[var(--muted)] mb-10 max-w-xl\">Nos clients sont notre meilleure publicité. Découvrez ce qu'ils pensent de nous.</p> <div class=\"grid md:grid-cols-2 gap-6\"> <div class=\"bg-[var(--surface)] border border-[var(--line)] rounded-xl p-6\"> <p class=\"text-sm text-[var(--muted)] leading-relaxed mb-4\">“Un service impeccable et rapide. Mon téléphone est comme neuf!”</p> <p class=\"font-semibold text-[var(--text)]\">Jean Dupont</p> <p class=\"text-xs text-[var(--muted)]\">Client Satisfait</p> </div> <div class=\"bg-[var(--surface)] border border-[var(--line)] rounded-xl p-6\"> <p class=\"text-sm text-[var(--muted)] leading-relaxed mb-4\">“Des techniciens professionnels et très disponibles pour répondre à mes questions.”</p> <p class=\"font-semibold text-[var(--text)]\">Marie Curie</p> <p class=\"text-xs text-[var(--muted)]\">Client Satisfait</p> </div> </div> </div> </section>",
+    "submitted_by": "admin",
+    "submitted_at": "2026-03-19T09:32:19+00:00"
+}
